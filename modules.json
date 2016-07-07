@@ -1,0 +1,7 @@
+{
+  "name": "modules-test1",
+  "version": "1.0.0",
+  "description": "Yeoman generator for tmt-workflow",
+  "license": "MIT",
+  "main": "app/index.js"
+}
